@@ -1,0 +1,23 @@
+.contain {
+  display: flex;
+  width: 90%;
+  height: 900px;
+  width: 95%;
+  margin: 0 auto;
+  border: 5px solid grey;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.ship {
+  margin-top: 50px;
+  color: white;
+  background-color: green;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 2%;
+  font-weight: bolder;
+}
